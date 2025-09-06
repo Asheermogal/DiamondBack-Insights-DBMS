@@ -1,4 +1,6 @@
-﻿# DiamondBack-Insights-DBMS
+﻿![CI](https://github.com/Asheermogal/DiamondBack-Insights-DBMS/actions/workflows/ci-python.yml/badge.svg)
+
+# DiamondBack-Insights-DBMS
 
 ## Overview
 Brief description.
@@ -12,4 +14,5 @@ How to run.
 
 ---
 © 2025 Asheer Mogal — All rights reserved.
+
 
